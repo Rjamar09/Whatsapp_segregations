@@ -14,7 +14,7 @@ import requests
 import time
 import base64
 # Load your image
-image = Image.open('D:\AOSPL\Automation\ivr_project\logo.jpg')
+image = Image.open('logo.jpg')
 
 # Center-align the title and change the color using HTML-style formatting
 title_html = """
